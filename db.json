@@ -1,0 +1,39 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/d19MRy6G/hahah.png",
+      "title": "Recruitment Day-Saturday 25 June",
+      "date": "01.12.21",
+      "content": "The Empower Programme is a new programme for start-ups targeted at female entrepreneurs from the West and North West of Ireland. This programme  addresses specific challenges that hinder females and will help to fast track female-led businesses."
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/sXCQQtHv/hahah2.png",
+      "title": "Authentic Communication: Keeping it real",
+      "date": "10.03.21",
+      "content": "Modern consumers are savvy, they demand transparency and see through posturing. Authentic communication is what businesses are striving for and what consumers demand.COVID 19 has shone a light on the importance of companies making a profit but ethically and with integrity. Businesses are being challenged on multiple levels with consumers asking questions about their communications and about their business core values, for instance, how a business treats their employees? How they’re contributing to causes? How the company makes a profit? What is their record on environmental impact? People are making distinctions based on the modus operandi of a company and its products, not purely on product benefits.   Take, for example, H & M the Swedish clothes chain whose mission is “To drive long-lasting positive change and improve living conditions by investing in people, communities and innovative ideas.”  They repurposed their supply chain to make PPE for medical staff and emerged strongly."
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/bYtGHNfd/hahah3.png",
+      "title": "Advice from Local Business Leaders",
+      "date": "05.08.20",
+      "content": "The CoLab community often comment of the generosity of Business Leaders in Donegal, they are always there to offer a helping hand to start-ups who are looking for advice, contacts or just a bit of encouragement. It’s one of the things that makes starting a business in Donegal such a positive experience for so many. We asked some of these Business Leaders what words of advice they would give to a start-up hoping to bring their business to the next level even in these challenging times. "
+    },
+    {
+      "id": 4,
+      "img": "https://bbsrwlwjaotuuufnxowi.supabase.co/storage/v1/object/public/sliki/Female-CEOs-1-1.png",
+      "title": "New Female Entrepreneur Programme Launches in Donegal",
+      "date": "01.05.20",
+      "content": "The Empower Programme is a new programme for start-ups targeted at female entrepreneurs from the West and North West of Ireland. This programme  addresses specific challenges that hinder females and will help to fast track female-led businesses."
+    },
+    {
+      "id": 5,
+      "img": "https://colab.ie/wp-content/uploads/2019/08/CoLab-38-smaller.jpg",
+      "title": "Accountant Online — taking the complexity out of compliance",
+      "date": "18.04.20",
+      "content": "Text 5"
+    }
+  ]
+}

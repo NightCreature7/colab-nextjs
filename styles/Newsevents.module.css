@@ -1,0 +1,17 @@
+.main {
+  color: #55cfc6;
+  font-size: 100%;
+  display: border-box;
+  text-align: center;
+  padding-top: 1.7%;
+  font-size: 1rem;
+}
+
+.paragraph {
+  font-weight: bold;
+  color: black;
+}
+
+.image {
+  width: 30%;
+}

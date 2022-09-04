@@ -1,0 +1,14 @@
+.menus {
+  display: flex;
+  list-style: none;
+  color: white;
+
+  top: 0;
+  margin: auto;
+}
+
+@media screen and (max-width: 1000px) {
+  .menus {
+    margin-top: 10%;
+  }
+}

@@ -1,0 +1,41 @@
+.menuItems {
+  position: relative;
+  font-size: 14px;
+}
+
+.menuItems a {
+  display: block;
+  font-size: inherit;
+  color: inherit;
+  text-decoration: none;
+}
+
+.menuItems button {
+  color: inherit;
+  font-size: inherit;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  width: 100%;
+}
+
+.menuItems a,
+.menuItems button {
+  text-align: left;
+  padding: 0.7rem 1rem;
+}
+
+.menuItems a:hover,
+.menuItems button:hover {
+  background-color: dimgray;
+}
+
+.arrow::after {
+  content: "";
+  display: inline-block;
+  margin-left: 0.28em;
+  vertical-align: 0.09em;
+  border-top: 0.42em solid;
+  border-right: 0.32em solid transparent;
+  border-left: 0.32em solid transparent;
+}

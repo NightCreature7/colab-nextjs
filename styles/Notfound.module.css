@@ -1,0 +1,37 @@
+.main {
+  color: #55cfc6;
+  font-size: 100%;
+  display: border-box;
+  text-align: center;
+  padding-top: 20%;
+  font-size: 1rem;
+}
+
+.headerOne {
+  font-size: 60px;
+}
+
+.headerTwo {
+  font-size: 30px;
+}
+
+@media screen and (min-width: 600px) {
+  .main {
+    padding-top: 10%;
+  }
+}
+
+.btn {
+  width: 16rem;
+  height: 3rem;
+  font-size: 1.2rem;
+  background-color: #55cfc6;
+  z-index: 1;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}

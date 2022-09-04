@@ -1,0 +1,98 @@
+.footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: auto;
+  width: auto;
+  padding-top: 30px;
+  color: #fff;
+  border-top: dotted 2px #333;
+  background-color: #fefefe;
+  margin-top: 20%;
+}
+
+@media screen and (min-width: 700px) {
+  .imgSection {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+.header {
+  font-weight: bold;
+  color: black;
+  margin-left: 10%;
+  font-size: 1.2rem;
+  margin-top: 0;
+}
+
+.headersub {
+  color: black;
+  margin-left: 10%;
+  font-weight: lighter;
+}
+
+.headersubblue {
+  color: #70d4dd;
+  margin-left: 10%;
+  font-weight: lighter;
+  text-decoration: underline #70d4dd;
+}
+
+.image {
+  width: 7%;
+  margin-left: 10%;
+}
+
+.imagetwo {
+  width: 7%;
+  padding-left: 5px;
+}
+
+.imagethree {
+  width: 7%;
+  padding-left: 5px;
+}
+
+.imagefour {
+  width: 7%;
+  padding-left: 5px;
+}
+
+.imagebottom {
+  width: 50%;
+  margin-top: 10%;
+  margin-left: 5%;
+}
+
+@media screen and (min-width: 700px) {
+  .main {
+    float: left;
+    width: 20%;
+    margin-left: 5%;
+  }
+
+  .mainleft {
+    float: left;
+    width: 20%;
+  }
+
+  .mainright {
+    float: right;
+    width: 40%;
+  }
+}
+
+.bottomup {
+  margin-top: 5%;
+  margin-left: 10%;
+  position: relative;
+}
+
+.bottom {
+  margin-top: 5%;
+  margin-left: 10%;
+  position: relative;
+}

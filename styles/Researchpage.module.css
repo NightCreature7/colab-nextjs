@@ -1,0 +1,277 @@
+.image {
+  width: 100%;
+  margin-left: 0;
+  height: 300px;
+}
+
+@media (min-width: 600px) {
+  .image {
+    width: 100%;
+    margin-left: 0;
+    height: auto;
+  }
+}
+
+.divup {
+  border-bottom: grey solid 0.3px;
+  text-align: center;
+}
+
+.divuptext {
+  margin-left: 5%;
+  font-weight: normal;
+}
+
+.divupleft {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+}
+
+.divupright {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40%;
+}
+
+.divmiddleheader {
+  font-weight: bold;
+  margin-left: 10%;
+  font-size: 2rem;
+}
+
+.divmiddleparagraph {
+  margin-left: 7%;
+  font-size: 1.7rem;
+}
+
+.divmiddleparagraphtwo {
+  margin-left: 7%;
+  font-size: 1rem;
+}
+
+.divmiddleparagraphthree {
+  margin-left: 7%;
+  font-size: 1rem;
+  color: rgb(85, 207, 198);
+}
+
+.divmiddleparagraphthree:hover {
+  text-decoration: underline;
+}
+
+.divupone {
+  border-bottom: grey solid 0.3px;
+  text-align: center;
+  background-color: rgb(85, 207, 198);
+}
+
+.divuptextone {
+  margin-left: 5%;
+  font-weight: normal;
+}
+
+.divupleftone {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+}
+
+.divuprightone {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40%;
+}
+
+.divuptwo {
+  border-bottom: grey solid 0.3px;
+  text-align: center;
+  background-color: rgb(85, 207, 198);
+  margin-top: 1%;
+}
+
+.divuptexttwo {
+  margin-left: 5%;
+  font-weight: normal;
+}
+
+.divuplefttwo {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+}
+
+.divuprighttwo {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40%;
+}
+
+.divupthree {
+  border-bottom: grey solid 0.3px;
+  text-align: center;
+  background-color: rgb(85, 207, 198);
+  margin-top: 1%;
+}
+
+.divuptextthree {
+  margin-left: 5%;
+  font-weight: normal;
+}
+
+.divupleftthree {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+}
+
+.divuprightthree {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40%;
+}
+
+.divupfour {
+  border-bottom: grey solid 0.3px;
+  text-align: center;
+  background-color: rgb(85, 207, 198);
+  margin-top: 1%;
+}
+
+.divuptextfour {
+  margin-left: 5%;
+  font-weight: normal;
+}
+
+.divupleftfour {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+}
+
+.divuprightfour {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40%;
+}
+
+.divupfive {
+  border-bottom: grey solid 0.3px;
+  text-align: center;
+  background-color: rgb(85, 207, 198);
+  margin-top: 1%;
+}
+
+.divuptextfive {
+  margin-left: 5%;
+  font-weight: normal;
+}
+
+.divupleftfive {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+}
+
+.divuprightfive {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40%;
+}
+
+.divupsix {
+  border-bottom: grey solid 0.3px;
+  text-align: center;
+  background-color: rgb(85, 207, 198);
+  margin-top: 1%;
+}
+
+.divuptextsix {
+  margin-left: 5%;
+  font-weight: normal;
+}
+
+.divupleftsix {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+}
+
+.divuprightsix {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40%;
+}
+
+.divupzero {
+  border-bottom: grey solid 0.3px;
+  text-align: center;
+}
+
+.divuptextzero {
+  margin-left: 5%;
+  font-weight: normal;
+}
+
+.divupleftzero {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+}
+
+.divuprightzero {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40%;
+}
+
+.divupseven {
+  border-bottom: grey solid 0.3px;
+  text-align: center;
+  background-color: rgb(85, 207, 198);
+  margin-top: 1%;
+}
+
+.divuptextseven {
+  margin-left: 5%;
+  font-weight: normal;
+}
+
+.divupleftseven {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+}
+
+.divuprightseven {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40%;
+}
+
+@media (min-width: 600px) {
+  .divup {
+    display: none;
+  }
+
+  .divmain {
+    text-align: center;
+  }
+
+  .divmiddle {
+    width: 80%;
+    float: right;
+    margin-top: 3%;
+  }
+
+  .divmiddletwo {
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
+@media (max-width: 600px) {
+  .divupzero {
+    display: none;
+  }
+}
